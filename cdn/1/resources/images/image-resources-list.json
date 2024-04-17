@@ -1,0 +1,16 @@
+{
+  "1713291874790": {
+    "originalName": "madrid.jpg",
+    "fileName": "1713291874790.jpg",
+    "size": 621122,
+    "url": "${appResourceUrl}/images/widget_1/1713291874790.jpg",
+    "created": 1713291874790,
+    "resourcesPrefix": "images/widget_1",
+    "referedIds": [],
+    "originId": "1713291874790",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1280,
+    "originalHeight": 1191
+  }
+}
